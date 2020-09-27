@@ -1,0 +1,1 @@
+[26-Sep-2020 19:26:13 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/cmdriven/public_html/library/fpdo/envms/fluentpdo/FluentPDO/BaseQuery.php on line 293

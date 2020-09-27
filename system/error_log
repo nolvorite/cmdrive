@@ -1,0 +1,6 @@
+[26-Sep-2020 19:16:40 UTC] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on boolean in /home/cmdriven/public_html/library/yuudrive/yuudrive.class.php:201
+Stack trace:
+#0 /home/cmdriven/public_html/system/statistic.php(4): YuuDrive\YuuDrive_db->get_count('tb_user')
+#1 {main}
+  thrown in /home/cmdriven/public_html/library/yuudrive/yuudrive.class.php on line 201
+[26-Sep-2020 19:26:06 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/cmdriven/public_html/library/fpdo/envms/fluentpdo/FluentPDO/BaseQuery.php on line 293
